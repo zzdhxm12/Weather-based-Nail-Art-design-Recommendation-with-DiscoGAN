@@ -35,7 +35,11 @@
 
 ![image](https://user-images.githubusercontent.com/53864655/72875148-04212c80-3d37-11ea-92af-7de09e4c2df6.png)
 
-제한적인 네일아트 디자인 집합만 사용자에게 제공하는 것이 아니라 딥러닝 기법으로 training data set을 스스로 학습하여 fake image를 만들어내는 기술인 GAN을 이용해 생성된 수많은 디자인들을 제공함으로써 네일아트 디자인 추천에 대한 다양성 증대시켰다.
+## Result
+
+[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/U-fNqgBuCK8)
+
+해당 서비스는 제한적인 네일아트 디자인 집합만 사용자에게 제공하는 것이 아니라 딥러닝 기법으로 training data set을 스스로 학습하여 fake image를 만들어내는 기술인 GAN을 이용해 생성된 수많은 디자인들을 제공함으로써 네일아트 디자인 추천에 대한 다양성 증대시켰다.
 
 
 
